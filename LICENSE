@@ -1,0 +1,49 @@
+RESTRICTED RESEARCH LICENSE
+===========================
+
+Project: cassandra_X0328 — Tmed2-ncc-bulk-E9.5 bulk RNA-seq analysis workflow
+Copyright (c) 2026 Dr. Eric Bareke. All rights reserved.
+
+This software (the "Software") — including all analysis scripts, documentation,
+figures and derived result tables in this repository — was developed by
+Dr. Eric Bareke <eb.bioinfo@pm.me> in support of ongoing, unpublished research
+conducted in the laboratory of Professor Loydie A. Majewska at McGill University,
+in collaboration with Cassandra Millet-Boureima.
+
+1. GRANT OF LICENSE
+   The author grants a non-exclusive, non-transferable, royalty-free license to
+   use, run, modify and create derivative works of the Software, solely for
+   internal, non-commercial academic research connected to the above project, to:
+
+     - Professor Loydie A. Majewska      <loydie.majewska@mcgill.ca>
+     - Cassandra Millet-Boureima         <cassandra.millet-boureima@affiliate.mcgill.ca>
+
+   and to members of the Majewska laboratory acting under their direction.
+
+2. RESTRICTIONS
+   Except as expressly permitted in Section 1, no person may copy, distribute,
+   publish, sublicense, sell, or otherwise make the Software (or any substantial
+   portion or derivative of it) available to any third party, nor use it for any
+   commercial purpose, without the prior written permission of the author.
+
+   The research data, results and biological findings associated with this work
+   are confidential and may not be disclosed or published except by, or with the
+   written agreement of, the named investigators above and the author.
+
+3. ATTRIBUTION
+   Any permitted use that contributes to a publication, presentation or report
+   must cite the author and this work as described in CITATION.md / CITATION.cff.
+
+4. NO WARRANTY
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+   AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY ARISING FROM, OUT
+   OF OR IN CONNECTION WITH THE SOFTWARE OR ITS USE.
+
+5. TERMINATION
+   This license terminates automatically upon any breach of its terms, or upon
+   written notice from the author.
+
+For permissions beyond the scope of this license, contact:
+Dr. Eric Bareke <eb.bioinfo@pm.me>

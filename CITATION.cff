@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this software or its results, please cite it as below."
+title: "cassandra_X0328: Tmed2-ncc-bulk-E9.5 bulk RNA-seq analysis workflow"
+abstract: >-
+  A reproducible bulk RNA-seq analysis workflow for the Tmed2-ncc-bulk-E9.5
+  project: differential expression (DESeq2), GSEA, GO/KEGG pathway enrichment,
+  neural-crest/E9.5/Tmed2 marker analysis, embryonic cell-lineage deconvolution,
+  gene-fusion analysis, and an interactive HTML dashboard, comparing
+  Tmed2 Wnt1-Cre mutant versus control mouse neural crest cells at E9.5.
+type: software
+version: 1.0.0
+date-released: "2026-06-22"
+license: LicenseRef-Restricted-Research
+authors:
+  - family-names: Bareke
+    given-names: Eric
+    email: eb.bioinfo@pm.me
+    affiliation: McGill University
+repository-code: "https://github.com/loydie-lab/cassandra_X0328"
+url: "https://ebareke.github.io/cassandra_X0328/"
+keywords:
+  - RNA-seq
+  - DESeq2
+  - GSEA
+  - neural crest
+  - Tmed2
+  - Wnt1-Cre
+  - mouse
+  - bioinformatics
