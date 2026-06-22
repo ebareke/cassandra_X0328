@@ -4,7 +4,7 @@ If you use this workflow, its code, or its results in your research, please cite
 
 > **Bareke, E.** (2026). *cassandra_X0328: Tmed2-ncc-bulk-E9.5 bulk RNA-seq
 > analysis workflow* (Version 1.0.0) [Computer software].
-> https://github.com/loydie-lab/cassandra_X0328
+> https://github.com/ebareke/cassandra_X0328_code
 
 **Code author:** Dr. Eric Bareke &lt;eb.bioinfo@pm.me&gt;
 
@@ -24,7 +24,7 @@ Majewska laboratory. Associated data and biological findings are confidential.
   title   = {cassandra\_X0328: Tmed2-ncc-bulk-E9.5 bulk RNA-seq analysis workflow},
   year    = {2026},
   version = {1.0.0},
-  url     = {https://github.com/loydie-lab/cassandra_X0328},
+  url     = {https://github.com/ebareke/cassandra_X0328_code},
   note    = {Live results: https://ebareke.github.io/cassandra_X0328/}
 }
 ```

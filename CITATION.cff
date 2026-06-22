@@ -16,7 +16,7 @@ authors:
     given-names: Eric
     email: eb.bioinfo@pm.me
     affiliation: McGill University
-repository-code: "https://github.com/loydie-lab/cassandra_X0328"
+repository-code: "https://github.com/ebareke/cassandra_X0328_code"
 url: "https://ebareke.github.io/cassandra_X0328/"
 keywords:
   - RNA-seq

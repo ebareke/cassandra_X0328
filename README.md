@@ -9,7 +9,7 @@ This repository hosts only the rendered dashboard ([`index.html`](index.html)).
 The full analysis code, step-by-step documentation, figures and result tables
 live in the project repository:
 
-**https://github.com/loydie-lab/cassandra_X0328**
+**https://github.com/ebareke/cassandra_X0328_code**
 
 ---
 
